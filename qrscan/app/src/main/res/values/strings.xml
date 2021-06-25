@@ -1,0 +1,81 @@
+<resources>
+    <!--App Essentials-->
+    <string name="app_name">QR skenování</string>
+    <string name="file_provider_authority" translatable="false">tajmac.zps.com.qbreader.fileprovider</string>
+    <string name="admob_app_id">ca-app-pub-2179452872215903~3590558474</string>
+    <string name="admob_banner_ad_unit_id">ca-app-pub-2179452872215903/7940867021</string>
+    <string name="admob_test_banner_ad_unit_id">ca-app-pub-2179452872215903/7940867021</string>
+    <string name="admob_test_interstitial_ad_unit_id">ca-app-pub-2179452872215903/2960003087</string>
+    <string name="admob_interstitial_ad_unit_id">ca-app-pub-2179452872215903/2960003087</string>
+
+    <!--Essentials-->
+    <string name="please_wait">Prosím, čekejte…</string>
+
+    <!--Dummy-->
+    <string name="lorem_ipsum">Mobilní aplikace QR Scan je produkt poskytující služby, jako je čtení čárových kódů, vytvoření čárového kódu a jeho další použití . Nesdílíme informace o uživateli s třetími stranami. Aplikace také neshromažďuje osobní údaje, jako jsou email,  jméno a prijmeni, telefonní číslo nebo jiné informace o uživateli. Aplikace neobsahuje registraci.
+Služba Google Play však shromažďuje údaje o vašem zařízení a je k dispozici našim správcům. Tato data se používají pouze k identifikaci zdravotních problémů. Zahrnují pouze model, značku zařízení. Aplikace QR Scan může obsahovat reklamy. Bezpečnost. Aplikace QR Scan nemá vlastní server a nemůže ukládat vaše data ani čárové kódy, které vytvoříte. Celá historie je uložena ve vašem zařízení. V případě jakýchkoli otázek souvisejících s používáním této aplikace kontaktujte e-mailem: aplikaceQR@gmail.com.
+</string>
+
+    <!--Home page-->
+    <string name="generate">Vytvořit</string>
+    <string name="history">Uložené kódy</string>
+    <string name="scan">Skenovat</string>
+    <string name="toolbar_title_generate">Vytvořte QR kód</string>
+    <string name="toolbar_title_scan">Snímání</string>
+    <string name="toolbar_title_history">Uložené kódy</string>
+
+    <!--Settings page-->
+    <string name="settings">Nastavení</string>
+    <string name="play_sound">Zvuk</string>
+    <string name="vibrate">Vibrace</string>
+    <string name="save_history">Uložit historii</string>
+    <string name="copy_to_clipboard">Zkopírovat do schránky(buffru)</string>
+    <string name="about_us">O aplikaci</string>
+    <string name="privacy_policy">Zásady ochrany osobních údajů</string>
+
+    <!--Generate page-->
+    <string name="hint_enter_your_text">Zadejte text</string>
+    <string name="error_provide_proper_content_and_type">Uveďte správné informace</string>
+    <string name="error_barcode_content_limit">Délka obsahu čárového kódu musí být mezi 1 a 80</string>
+    <string name="error_qrcode_content_limit">Délka obsahu QR kódu musí být mezi 1 a 1 000</string>
+    <string name="hello_blank_fragment">Hello blank</string>
+
+    <!--Generated QR Code page-->
+    <string name="toolbar_title_generated_qr_code">Vytvořte QR kód</string>
+    <string name="code_type">Typ: %s</string>
+    <string name="content">Obsah: %s</string>
+    <string name="describe">Popis: %s</string>
+    <string name="info">Info: %s</string>
+    <string name="saved_the_code_successfully">Kód byl úspěšně uložen</string>
+    <string name="failed_to_save_the_code">kód se nepodařilo uložit</string>
+    <string name="failed_to_share_the_code">sdílení kódu se nezdařilo</string>
+    <string name="file_name_body">%s_%s</string>
+    <string name="generated_qr_code_already_exists">Vygenerovaný kód již v úložišti existuje</string>
+    <string name="share_code_using">Sdílejte kód pomocí…</string>
+
+    <!--Scan page-->
+    <string name="flash">Flash</string>
+    <string name="scan_gallery">Z galerie</string>
+    <string name="error_occured_while_scanning">Při skenování došlo k chybě</string>
+    <string name="error_could_not_load_the_image">Načtení obrázku se nezdařilo</string>
+    <string name="error_did_not_find_any_content">obsah nenalezen. Zkuste jiný obrázek</string>
+
+    <!--Scan result page-->
+    <string name="toolbar_title_scan_result">Výsledek skenování</string>
+    <string name="open_in_browser">Otevřít v prohlížeči</string>
+    <string name="created_time">Čas stvoření: %s</string>
+    <string name="scanned_qr_code_content">Obsah naskenovaného kódu</string>
+    <string name="copied_to_clipboard">Zkopírovat do schránky(buffru)</string>
+
+    <!--History page-->
+    <string name="code_scan">%s Scan</string>
+    <string name="no_item">Nic nalezeno</string>
+
+    <!--Picked image from gallery page-->
+    <string name="get_value">Získejte hodnotu</string>
+    <string name="toolbar_title_uploaded_image">Nahrajte obrázek</string>
+    <string name="dolor_sit_amet">QR Scan - Naskenujte a vytvořte QR kód a čárový kód</string>
+    <string name="app_version_v1_1">Verze: 1.0.0</string>
+    <string name="something_wrong">Něco se pokazilo</string>
+    <string name="delete">Vymazat</string>
+</resources>
